@@ -7,3 +7,5 @@
 
 # Vagrant stuff
 /.vagrant
+
+/node_modules
